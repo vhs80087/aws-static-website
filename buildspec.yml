@@ -1,4 +1,4 @@
-::writing{variant="document" id="72416" title="buildspec.yml"}
+:::writing{variant="document" id="61384" title="Correct buildspec.yml"}
 
 version: 0.2
 
@@ -12,4 +12,3 @@ artifacts:
   files:
     - index.html
 :::
-
